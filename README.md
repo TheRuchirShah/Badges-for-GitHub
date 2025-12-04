@@ -378,6 +378,8 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
 | <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />                                   | `https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white`                                   |
 | <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" /> | `https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge` |
 | <img src="https://img.shields.io/badge/Symfony-000?logo=symfony&logoColor=fff&style=for-the-badge" alt="Symfony Badge">  | `https://img.shields.io/badge/Symfony-000?logo=symfony&logoColor=fff&style=for-the-badge` | 
+| <img src="https://img.shields.io/badge/Godot_Engine-478cbf?style=for-the-badge&logo=godotengine&logoColor=%23ffffff"> | `https://img.shields.io/badge/Godot_Engine-478cbf?style=for-the-badge&logo=godotengine&logoColor=%23ffffff` |
+| <img src="https://img.shields.io/badge/Nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS Badge">  | `https://img.shields.io/badge/Nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white` |
 
 <br>
 
@@ -594,6 +596,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
 | <img src="https://img.shields.io/badge/Coinbase-0052FF?style=for-the-badge&logo=Coinbase&logoColor=white" />             | `https://img.shields.io/badge/Coinbase-0052FF?style=for-the-badge&logo=Coinbase&logoColor=white`             |
 | <img src="https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge" /> | `https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge` |
 | <img src="https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=fff&style=for-the-badge" />               | `https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=fff&style=for-the-badge`               |
+| <img src="https://img.shields.io/badge/Solidity-e6e6e6?logo=solidity&logoColor=433c8a&style=for-the-badge" />            | `https://img.shields.io/badge/Solidity-e6e6e6?logo=solidity&logoColor=433c8a&style=for-the-badge`            |
 
 <br>
 
@@ -665,6 +668,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
 | <img src="https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white" />                     | `https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white`                     |
 | <img src="https://img.shields.io/badge/dogecoin-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white" />             | `https://img.shields.io/badge/dogecoin-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white`             |
 | <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />             | `https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white`             |
+| <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethers&logoColor=white" />             | `https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethers&logoColor=white`             |
 | <img src="https://img.shields.io/badge/iota-131F37?style=for-the-badge&logo=iota&logoColor=white" />                     | `https://img.shields.io/badge/iota-131F37?style=for-the-badge&logo=iota&logoColor=white`                     |
 | <img src="https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white" />             | `https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white`             |
 | <img src="https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white" />                 | `https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white`                 |
@@ -672,6 +676,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
 | <img src="https://img.shields.io/badge/polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=000" />               | `https://img.shields.io/badge/polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=000`               |
 | <img src="https://img.shields.io/badge/Stellar-090020?style=for-the-badge&logo=stellar&logoColor=white" />               | `https://img.shields.io/badge/Stellar-090020?style=for-the-badge&logo=stellar&logoColor=white`               |
 | <img src="https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white" />                 | `https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white`                 |
+| <img src="https://img.shields.io/badge/The%20Open%20Network-0000ff?style=for-the-badge&logo=ton&logoColor=white" />      | `https://img.shields.io/badge/The%20Open%20Network-0000ff?style=for-the-badge&logo=ton&logoColor=white`                 |
 | <img src="https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white" />                        | `https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white`                        |
 | <img src="https://img.shields.io/badge/Zcash-F4B728?style=for-the-badge&logo=zcash&logoColor=000" />                     | `https://img.shields.io/badge/Zcash-F4B728?style=for-the-badge&logo=zcash&logoColor=000`                     |
 
@@ -742,6 +747,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
 | <img src="https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=InVision&logoColor=white" />                                 | `https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=InVision&logoColor=white`                                 |
 | <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" />                                 | `https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white`                                 |
 | <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" />                                      | `https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B`                                      |
+| <img src="https://img.shields.io/badge/Penpot-32EFB9?style=for-the-badge&logo=penpot&logoColor=black" />                                      | `https://img.shields.io/badge/Penpot-32EFB9?style=for-the-badge&logo=penpot&logoColor=black`                                      |
 | <img src="https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff" />                                | `https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff`                                |
 | <img src="https://img.shields.io/badge/semantic%20ui%20react-35BDB2?style=for-the-badge&logo=semanticuireact&logoColor=white" />             | `https://img.shields.io/badge/semantic%20ui%20react-35BDB2?style=for-the-badge&logo=semanticuireact&logoColor=white`             |
 | <img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" />                                     | `https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black`                                     |
@@ -872,7 +878,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
 | <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />  | `https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E`  |
 | <img src="https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white" />    | `https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white`    |
 | <img src="https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white" /> | `https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white` |
-| <img src="https://img.shields.io/badge/Rome-27272A?logo=rome&logoColor=fff&style=for-the-badge" /> | `https://img.shields.io/badge/Rome-27272A?logo=rome&logoColor=fff&style=for-the-badge` |
+| <img src="https://img.shields.io/badge/Biome-3447FF?style=for-the-badge&logo=biome&logoColor=white" /> | `https://img.shields.io/badge/Biome-3447FF?style=for-the-badge&logo=biome&logoColor=white` |
 
 <br>
 
@@ -1019,6 +1025,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
 | <img src="https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=safari&logoColor=white" />                   | `https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white`                   |
 | <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white" />         | `https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white`         |
 | <img src="https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white" />                 | `https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white`                 |
+| <img src="https://img.shields.io/badge/Arc-3139fb?style=for-the-badge&logo=Arc&logoColor=white" />                 | `https://img.shields.io/badge/Arc-3139fb?style=for-the-badge&logo=Arc&logoColor=white`                 |
 
 <br>
 
@@ -1097,6 +1104,8 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
 | <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />                | `https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white`                |
 | <img src="https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=TeamCity&logoColor=white" />        | `https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=TeamCity&logoColor=white`        |
 | <img src="https://img.shields.io/badge/Crowdin-2E3340.svg?style=for-the-badge&logo=Crowdin&logoColor=white" />      | `https://img.shields.io/badge/Crowdin-2E3340.svg?style=for-the-badge&logo=Crowdin&logoColor=white`      |
+| <img src="https://img.shields.io/badge/n8n-5b5b5b?style=for-the-badge&logo=n8n" />      | `https://img.shields.io/badge/n8n-5b5b5b?style=for-the-badge&logo=n8n`      |
+| <img src="https://img.shields.io/badge/Make-9159c5?style=for-the-badge&logo=make" />      | `https://img.shields.io/badge/Make-9159c5?style=for-the-badge&logo=make`      |
 
 <br>
 
@@ -1255,7 +1264,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
 <table>
 <tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/Envoy-VC>
+        <a href=https://github.com/envoy1084>
             <img src=https://avatars.githubusercontent.com/u/65389981?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Vedant Chainani/>
             <br />
             <sub style="font-size:14px"><b>Vedant Chainani</b></sub>
@@ -1276,17 +1285,40 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/Cubik65536>
-            <img src=https://avatars.githubusercontent.com/u/72877496?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Qian Qian "Cubik"‎/>
+        <a href=https://github.com/SAKET-SK>
+            <img src=https://avatars.githubusercontent.com/u/60461421?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Saket Khopkar/>
             <br />
-            <sub style="font-size:14px"><b>Qian Qian "Cubik"‎</b></sub>
+            <sub style="font-size:14px"><b>Saket Khopkar</b></sub>
         </a>
     </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/Pichuelectrico>
+            <img src=https://avatars.githubusercontent.com/u/88551868?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Joshua Reinoso/>
+            <br />
+            <sub style="font-size:14px"><b>Joshua Reinoso</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/Qubik65536>
+            <img src=https://avatars.githubusercontent.com/u/72877496?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Qian Qian "Qubik"/>
+            <br />
+            <sub style="font-size:14px"><b>Qian Qian "Qubik"</b></sub>
+        </a>
+    </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/darencard>
             <img src=https://avatars.githubusercontent.com/u/8263623?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Daren Card/>
             <br />
             <sub style="font-size:14px"><b>Daren Card</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/doda-s>
+            <img src=https://avatars.githubusercontent.com/u/53160578?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Dodas_/>
+            <br />
+            <sub style="font-size:14px"><b>Dodas_</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
@@ -1296,13 +1328,18 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
             <sub style="font-size:14px"><b>Gabriel Pereira Benedicto</b></sub>
         </a>
     </td>
-</tr>
-<tr>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/marcalexiei>
+            <img src=https://avatars.githubusercontent.com/u/24919330?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Marco Pasqualetti/>
+            <br />
+            <sub style="font-size:14px"><b>Marco Pasqualetti</b></sub>
+        </a>
+    </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/Milo40>
-            <img src=https://avatars.githubusercontent.com/u/33132706?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=PF1×3R/>
+            <img src=https://avatars.githubusercontent.com/u/33132706?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=pf1×3r/>
             <br />
-            <sub style="font-size:14px"><b>PF1×3R</b></sub>
+            <sub style="font-size:14px"><b>pf1×3r</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
@@ -1312,6 +1349,8 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
             <sub style="font-size:14px"><b>Raúl Julián López Caña</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/dies>
             <img src=https://avatars.githubusercontent.com/u/80762?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Serhiy Dmytryshyn/>
@@ -1324,6 +1363,20 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
             <img src=https://avatars.githubusercontent.com/u/31664665?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Stefan Heinz/>
             <br />
             <sub style="font-size:14px"><b>Stefan Heinz</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/valentinesamuel>
+            <img src=https://avatars.githubusercontent.com/u/67756784?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Valentine Samuel/>
+            <br />
+            <sub style="font-size:14px"><b>Valentine Samuel</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/Til0r>
+            <img src=https://avatars.githubusercontent.com/u/24627876?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Antonio Santangelo/>
+            <br />
+            <sub style="font-size:14px"><b>Antonio Santangelo</b></sub>
         </a>
     </td>
 </tr>
